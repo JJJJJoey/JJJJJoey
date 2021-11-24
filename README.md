@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JJJJJoey
-- 👀 I’m interested in coding
+- 👀 I’m interested in
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sainas.georgia@gmail.com
